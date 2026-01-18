@@ -5,7 +5,7 @@ const CONFIG = {
 
   // 表单提交方式（三选一）
   // 方案A（推荐）：Formspree，把 action 填成你的 endpoint，例如：https://formspree.io/f/xxxxxx
-  FORM_ACTION: "",
+  FORM_ACTION: "https://formspree.io/f/xbddgpby",
 
   // 方案B：Google Form（把下面填成你的表单 POST 地址 + entry 字段映射，需要我也可以帮你配）
   GOOGLE_FORM_ACTION: "",
