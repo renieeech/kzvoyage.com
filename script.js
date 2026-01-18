@@ -1,7 +1,7 @@
 // ====== CONFIG (你只需要改这里) ======
 const CONFIG = {
   BRAND: "Voyage",
-  EMAIL: "bp@voyageai.com",
+  EMAIL: "contact@kzvoyage.com",
 
   // 表单提交方式（三选一）
   // 方案A（推荐）：Formspree，把 action 填成你的 endpoint，例如：https://formspree.io/f/xxxxxx
